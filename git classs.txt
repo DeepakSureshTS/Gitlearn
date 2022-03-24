@@ -1,0 +1,29 @@
+Things to learn 
+Learn linux by doing 
+Devops Essentials
+
+
+Git Commands
+1.git init
+2.git config
+3.git clone
+4.git add 
+5.git commit 
+6.git status
+7.git rm
+8.git branch
+9.git merge 
+10.git push 
+11.git pull
+12.git remote 
+13.git ignore
+14.git log
+15.git show 
+16.git --version
+git config --global user.name "Moushmi"
+git config --global user.email "moushmi@analyticsdomain.com"
+
+https://git-scm.com/videos
+$ git add first.txt
+$ git status
+$ git commit -m "first.txt" to bring changes
